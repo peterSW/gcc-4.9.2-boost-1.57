@@ -316,7 +316,6 @@ ARS=(
     http://ftp.gnu.org/gnu/binutils/binutils-2.24.tar.bz2
     http://ftp.gnu.org/gnu/gdb/gdb-7.12.tar.xz
     https://sourceforge.net/projects/boost/files/boost/1.62.0/boost_1_62_0.tar.bz2
-    https://googledrive.com/host/0B6NtGsLhIcf7MWxMMF9JdTN3UVk/gperftools-2.2.90.tar.gz
 
     #
     # Why glibc is disabled (for now).
