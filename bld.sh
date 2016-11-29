@@ -314,7 +314,7 @@ ARS=(
     http://www.bastoul.net/cloog/pages/download/cloog-0.18.1.tar.gz
     http://ftp.gnu.org/gnu/gcc/gcc-6.2.0/gcc-6.2.0.tar.bz2
     http://ftp.gnu.org/gnu/binutils/binutils-2.24.tar.bz2
-    http://ftp.gnu.org/gnu/gdb/gdb-7.12.tar.xz
+    http://ftp.gnu.org/gnu/gdb/gdb-7.12.tar.gz
     https://sourceforge.net/projects/boost/files/boost/1.62.0/boost_1_62_0.tar.bz2
 
     #
